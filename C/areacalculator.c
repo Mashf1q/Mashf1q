@@ -11,7 +11,7 @@ float area;
 int main() {
 int choice;
 
-//taking area 
+//taking shape
 printf("enter shape : \n1. circle\n2. rectangle\n3. square\n");
 scanf("%d",&choice);
 
